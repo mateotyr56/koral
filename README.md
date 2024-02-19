@@ -21,8 +21,7 @@ Provide examples or instructions on how to use your project.
 
 ## License
 
-#### koral is open source free to use only with credits to 
-### white wolf
+#### Koral is distributed under the [Koral Open License](https://koral-open-lisense.netlify.app/). You are free to copy, modify, distribute, and use the software, even for commercial purposes, all without asking permission. Attribution is appreciated but not required. 
 
 ## Contact
 
