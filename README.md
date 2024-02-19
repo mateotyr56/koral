@@ -21,7 +21,8 @@ Provide examples or instructions on how to use your project.
 
 ## License
 
-#### Koral is distributed under the [Koral Open License](https://koral-open-lisense.netlify.app/). You are free to copy, modify, distribute, and use the software, even for commercial purposes, all without asking permission. Attribution is appreciated but not required. 
+#### Koral is distributed under the [Koral Open License](https://koral-open-lisense.netlify.app/){:target="_blank"}
+. You are free to copy, modify, distribute, and use the software, even for commercial purposes, all without asking permission. Attribution is appreciated but not required. 
 
 ## Contact
 
