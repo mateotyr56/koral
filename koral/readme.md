@@ -17,6 +17,9 @@ Provide instructions on how to install your project, dependencies, etc.
 
 ## Usage
 
+> [!INFO]
+> chase
+
 Provide examples or instructions on how to use your project.
 
 ## License
